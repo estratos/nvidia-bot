@@ -1,0 +1,6 @@
+
+
+
+  El formato ONNX necesita ser compatible con Tensor RT 4.0, no va cargar el modelo si el archivo ONNX esta en un formato mas nuevo.
+
+ 
